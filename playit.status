@@ -1,339 +1,263 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722471687556 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n")
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722473618020 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471690617 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473621084 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471693686 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473624146 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471696754 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473627222 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471699826 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473630293 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471702888 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473633357 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471705963 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473636421 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471709034 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473639493 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471712096 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473642554 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471715170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473645624 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471718232 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473648683 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471721296 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473651757 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471724369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473654826 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471727457 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473657882 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471730515 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473660940 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471733581 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473664008 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471736654 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473667075 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471739714 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473670134 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471742796 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473673192 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471745862 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473676264 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471748930 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473679334 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471751994 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473682402 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471755051 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473685467 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471758110 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473688533 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471761170 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473691610 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471764252 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473694669 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471767339 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473697739 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471770410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473700800 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471773485 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473703869 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471776552 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473706942 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471779627 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473710018 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471782693 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473713094 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471785765 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473716163 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471788840 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473719220 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471791902 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473722284 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471794961 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473725346 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471798028 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473728410 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471801088 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473731468 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471804158 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473734523 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471807244 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473737594 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471810312 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473740651 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471813378 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473743711 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471816438 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473746768 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471819513 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473749833 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471822587 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473752898 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471825647 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473755961 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471828712 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473759020 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471831782 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473762081 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471834854 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473765158 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471837919 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473768235 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471840980 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473771290 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471844044 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471847109 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471850180 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471853248 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471856307 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471859398 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471862464 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471865524 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471868591 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471871651 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471874711 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471877783 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471880841 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471883904 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471886966 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471890029 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471893087 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473774368 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -341,92 +265,287 @@ go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722471902303 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473783559 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471905380 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473786622 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471908440 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473789688 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471911572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473792765 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471914631 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473795834 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471917689 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473798908 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471920787 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473801995 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471923850 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473805072 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471926931 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473808136 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471930000 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473811219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471933062 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473814281 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471936120 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473817340 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471939209 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473820407 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471942272 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473823494 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471945333 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473826570 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471948393 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473829641 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471951460 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473832698 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471954525 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473835766 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473838834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473841898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473844965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473848029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473851087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473854145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473857218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473860287 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473863358 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473866431 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473869492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473872550 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473875614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473878688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473881783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473884853 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473887926 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473890998 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473894071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473897139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473900207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473903285 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473906359 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473909427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473912485 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473915548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473918611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473921678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473924742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473927813 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473930879 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473933946 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473937017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473940074 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473943133 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473946190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473949251 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473952325 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473955381 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -434,22 +553,57 @@ go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722471963834 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473964564 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471966901 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473967626 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471969960 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473970689 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471973018 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722473973745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473976817 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473979878 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473982947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473986005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473989061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473992126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722473995193 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -457,287 +611,187 @@ go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722471982146 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474004312 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471985203 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474007379 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471988333 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474010442 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471991411 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474013521 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471994476 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474016581 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722471997535 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474019640 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472000607 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474022709 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472003666 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474025779 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472006726 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474028868 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472009784 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474031934 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472012874 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474035001 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472015948 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474038070 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472019017 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474041130 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472022093 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474044206 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472025158 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474047268 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472028215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474050333 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472031278 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474053408 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472034343 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474056469 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472037406 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474059527 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472040466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474062586 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472043543 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474065651 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472046617 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474068711 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472049683 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474071771 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472052751 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474074841 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472055814 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474077915 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472058876 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474080980 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472061940 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474084052 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472065007 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474087114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472068074 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474090178 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472071133 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474093241 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472074204 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474096318 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472077262 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474099383 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472080339 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474102442 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472083400 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474105509 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472086464 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474108572 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472089523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474111627 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472092592 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472095657 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472098720 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472101790 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472104858 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472107918 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472110983 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472114049 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472117118 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472120180 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472123242 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472126309 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472129375 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472132443 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472135516 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472138583 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472141650 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472144718 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472147795 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472150859 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472153921 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474114702 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -745,195 +799,147 @@ go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472163033 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474123821 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472166100 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474126880 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472169165 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474129946 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472172224 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474133010 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472175283 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474136088 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472178493 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474139152 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472181557 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474142228 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472184626 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474145294 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472187684 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474148362 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472190745 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474151427 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472193806 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474154500 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472196873 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474157568 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472199958 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474160631 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472203031 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474163694 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472206090 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474166769 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472209159 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474169833 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472212217 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474172892 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472215289 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474175951 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472218348 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474179021 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472221416 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474182083 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472224484 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474185142 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472227558 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474188200 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472230617 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474191270 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472233684 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474194332 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472236747 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474197409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472239812 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474200477 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472242873 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474203534 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472245934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474206600 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472248992 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472252057 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722472261187 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472264261 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472267326 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472270387 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472273517 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472276580 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472279640 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-go-defensive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722472282702 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722474209672 tunnel running, 1 tunnels registered
 
 
 TUNNELS
